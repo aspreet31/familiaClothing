@@ -1,75 +1,50 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Familia Clothing
+This repository provides the frontend code for building a modern e-commerce website. It uses **ReactJS** to create a smooth and interactive shopping experience, and integrates **Firebase** Authentication for secure user logins.
+## Features
+### Browse by Category:
+Find products easily with organized categories.
+### Add to Cart:
+Fill your cart with awesome stuff!
+### Login Securely: 
+Sign in safely using Firebase.
+### Looks Great on Any Device:
+Works perfectly on phones, tablets, and computers
+## Screenshot -
+### Home Page
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/cf22e55f-539e-41f6-8eed-f5e17d195045)
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/4c6f84d8-9128-4b87-906e-d08f964a5701)
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/dd764157-c0a2-49f5-af98-36a9512514af)
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/b3a58cb8-aac8-4525-ba56-697ca65c80ca)
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/88520788-55b9-49d6-8c58-f288d003fce0)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Sign Up 
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/a4542d9b-acd0-4142-9873-0bf89de536a9)
 
-## Available Scripts
+### Login 
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/331d8f8f-7240-42d8-b9b8-f7fc62ea8f7e)
 
-In the project directory, you can run:
+### Men Page
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/269e2a13-22bf-415b-ac45-95d060200621)
 
-### `npm start`
+### Women Page
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/07c20fd3-9405-49fc-a34c-8b2b57e195c1)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Kids Page
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/e9ac74ee-caef-483f-9d87-babd3d0a046b)
+### Product Display
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/7705cabd-c5e5-4713-990a-011972849c00)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Add To Cart
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/3262c12c-8297-466e-b5c1-a790ad0d1052)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# familiaClothing
-This repo stores code for building modern frontend E-commerce website using ReactJS.
->>>>>>> 16c1784c6fe2b0e9b3490c0ccb7e442fe3b0568c
