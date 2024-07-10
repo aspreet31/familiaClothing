@@ -21,7 +21,7 @@ Works perfectly on phones, tablets, and computers
 ![image](https://github.com/aspreet31/familiaClothing/assets/103019348/a4542d9b-acd0-4142-9873-0bf89de536a9)
 
 ### Login 
-![image](https://github.com/aspreet31/familiaClothing/assets/103019348/331d8f8f-7240-42d8-b9b8-f7fc62ea8f7e)
+![image](https://github.com/aspreet31/familiaClothing/assets/103019348/751fd59f-207f-41b2-ab45-afa1f4cb57d1)
 
 ### Men Page
 ![image](https://github.com/aspreet31/familiaClothing/assets/103019348/269e2a13-22bf-415b-ac45-95d060200621)
