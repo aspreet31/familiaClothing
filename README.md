@@ -1,5 +1,5 @@
 # Familia Clothing
-This repository provides the frontend code for building a modern e-commerce website. It uses **ReactJS** to create a smooth and interactive shopping experience, and integrates **Firebase** Authentication for secure user logins.
+This repository provides the frontend code for building a modern e-commerce website. It uses **ReactJS** to create a smooth and interactive shopping experience, and integrates **Firebase** Authentication for secure user logins and **Cloud Firestore** to keeps track of all the information users create in the application.
 ## Features
 ### Browse by Category:
 Find products easily with organized categories.
@@ -7,6 +7,8 @@ Find products easily with organized categories.
 Fill your cart with awesome stuff!
 ### Login Securely: 
 Sign in safely using Firebase.
+### User Data Store:
+Registered user data safely store using Cloud firestore.
 ### Looks Great on Any Device:
 Works perfectly on phones, tablets, and computers
 ## Screenshot -
